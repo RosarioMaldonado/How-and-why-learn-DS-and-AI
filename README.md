@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/86489670/183318640-45d5df17-05c1-4945-af95-4aee7dd31e93.png)
+
 # How-and-why-learn-DS-and-AI
 Curso Básico │Data Scientist │Platzi
 
